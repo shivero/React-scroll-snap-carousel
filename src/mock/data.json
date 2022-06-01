@@ -1,0 +1,28 @@
+{
+    "images": [
+        {
+            "imageUrl": "images/diablo_hoodie_gray.webp"
+        },
+        {
+            "imageUrl": "images/diablo_tshirt_black_back.webp"
+        },
+        {
+            "imageUrl": "images/diablo_tshirt_black_front.webp"
+        },
+        {
+            "imageUrl": "images/diablo_tshirt_red.webp"
+        },
+        {
+            "imageUrl": "images/diablo_tshirt_black_back.webp"
+        },
+        {
+            "imageUrl": "images/diablo_tshirt_black_front.webp"
+        },
+        {
+            "imageUrl": "images/diablo_hoodie_gray.webp"
+        },
+        {
+            "imageUrl": "images/diablo_tshirt_red.webp"
+        }
+    ]
+}
